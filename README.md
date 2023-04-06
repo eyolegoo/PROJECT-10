@@ -30,7 +30,7 @@ LOAD BALANCER SOLUTION WITH NGINX AND SSL/TLS
 
 <img width="550" alt="Architecture" src="https://user-images.githubusercontent.com/115954100/230002592-5a148bf1-0fff-40e4-bd73-2add5ac2a9d0.png">
 
-***## CONFIGURE NGINX AS A LOAD BALANCER***
+## ***CONFIGURE NGINX AS A LOAD BALANCER***
 
 - You can either uninstall Apache from the existing Load Balancer server, or create a fresh installation of Linux for Nginx.
 
@@ -87,7 +87,7 @@ sudo systemctl status nginx
 - **Side Self Study**: Read more about HTTP load balancing methods and features supported by Nginx [on this page](https://docs.nginx.com/nginx/admin-guide/load-balancer/http-load-balancer/).
 
 
-***## REGISTER A NEW DOMAIN NAME AND CONFIGURE SECURED CONNECTION USING SSL/TLS CERTIFICATES***
+## ***REGISTER A NEW DOMAIN NAME AND CONFIGURE SECURED CONNECTION USING SSL/TLS CERTIFICATES***
 
 - Let us make necessary configurations to make connections to our Tooling Web Solution secured!
 
