@@ -82,6 +82,8 @@ sudo systemctl restart nginx
 sudo systemctl status nginx
 ```
 
+<img width="639" alt="NGINX INSTALLED AND RUNNING" src="https://user-images.githubusercontent.com/115954100/230287663-d998efef-5eaf-464a-b49a-dae3c2e7e8a0.png">
+
 - **Side Self Study**: Read more about HTTP load balancing methods and features supported by Nginx [on this page](https://docs.nginx.com/nginx/admin-guide/load-balancer/http-load-balancer/).
 
 
